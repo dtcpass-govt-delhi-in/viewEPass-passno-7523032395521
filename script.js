@@ -1,3 +1,4 @@
+// Coded by The Yogesh Kaushik
 $(document).ready(function () {
     $(window).scroll(function () {
         if (this.scrollY > 20) {
